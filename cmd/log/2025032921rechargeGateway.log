@@ -1,0 +1,16 @@
+[2025-03-29 21:00:33.797] [recharge-gateway] [main] [info] [] closing micropagos message gateway version 1.0.0, received shutdown signal: interrupt,
+[2025-03-29 21:01:44.643] [recharge-gateway] [handlerWelcome] [info] [] starting handler welcome.
+[2025-03-29 21:02:34.438] [recharge-gateway] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-29 21:02:34.439] [recharge-gateway] [config] [info] [] starting to get the config struct 
+[2025-03-29 21:02:34.439] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-29 21:02:34.439] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-29 21:02:34.443] [Gconfiguration] [] [info] [] ending to get the configuration
+[2025-03-29 21:02:34.443] [Gconfiguration] [] [trace] [] this is the data that we have in the configuration {"log_level":"info","log_name":"rechargeGateway","server_port":":2000","client":{"maxIdleConns":10,"maxConnsPerHost":100,"maxIdleConnsPerHost":10,"idleConnTimeoutSeconds":30,"disableCompression":true,"petitionsTimeOut":20,"disableKeepAlives":true},"realizar_venta":{"url":"http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService","method":"POST"}}
+[2025-03-29 21:02:34.443] [Gconfiguration] [] [info] [] Configuration reloaded successfully
+[2025-03-29 21:02:34.443] [] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-29 21:02:34.443] [] [config] [info] [] starting to get the config struct 
+[2025-03-29 21:02:34.443] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-29 21:02:34.443] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-29 21:02:34.445] [Gconfiguration] [] [info] [] ending to get the configuration
+[2025-03-29 21:02:34.445] [Gconfiguration] [] [info] [] Configuration reloaded successfully
+[2025-03-29 21:04:32.861] [] [main] [info] [] closing micropagos message gateway version 1.0.0, received shutdown signal: interrupt,

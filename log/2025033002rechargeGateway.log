@@ -1,0 +1,43 @@
+[2025-03-30 02:28:51.124] [recharge-gateway] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 02:28:51.124] [recharge-gateway] [config] [info] [] starting to get the config struct 
+[2025-03-30 02:28:51.124] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 02:28:51.124] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 02:28:51.131] [Gconfiguration] [] [info] [] ending to get the configuration
+[2025-03-30 02:28:51.131] [Gconfiguration] [] [trace] [] this is the data that we have in the configuration {"log_level":"trace","log_name":"rechargeGateway","server_port":":2000","client":{"maxIdleConns":10,"maxConnsPerHost":100,"maxIdleConnsPerHost":10,"idleConnTimeoutSeconds":30,"disableCompression":true,"petitionsTimeOut":20,"disableKeepAlives":true},"realizar_venta":{"url":"http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService","method":"POST"},"mobil_regex":"^\\d{8}$"}
+[2025-03-30 02:28:51.131] [Gconfiguration] [] [info] [] Configuration reloaded successfully
+[2025-03-30 02:28:51.131] [] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 02:28:51.131] [] [config] [info] [] starting to get the config struct 
+[2025-03-30 02:28:51.131] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 02:28:51.131] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 02:28:51.132] [Gconfiguration] [] [info] [] ending to get the configuration
+[2025-03-30 02:28:51.132] [Gconfiguration] [] [trace] [] this is the data that we have in the configuration {"log_level":"trace","log_name":"rechargeGateway","server_port":":2000","client":{"maxIdleConns":10,"maxConnsPerHost":100,"maxIdleConnsPerHost":10,"idleConnTimeoutSeconds":30,"disableCompression":true,"petitionsTimeOut":20,"disableKeepAlives":true},"realizar_venta":{"url":"http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService","method":"POST"},"mobil_regex":"^\\d{8}$"}
+[2025-03-30 02:28:51.132] [Gconfiguration] [] [info] [] Configuration reloaded successfully
+[2025-03-30 02:28:52.652] [] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 02:28:52.652] [] [config] [info] [] starting to get the config struct 
+[2025-03-30 02:28:52.652] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 02:28:52.652] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 02:28:52.654] [Gconfiguration] [] [info] [] ending to get the configuration
+[2025-03-30 02:28:52.654] [Gconfiguration] [] [trace] [] this is the data that we have in the configuration {"log_level":"trace","log_name":"rechargeGateway","server_port":":2000","client":{"maxIdleConns":10,"maxConnsPerHost":100,"maxIdleConnsPerHost":10,"idleConnTimeoutSeconds":30,"disableCompression":true,"petitionsTimeOut":20,"disableKeepAlives":true},"realizar_venta":{"url":"http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService","method":"POST"},"mobil_regex":"^\\d{8}$"}
+[2025-03-30 02:28:52.654] [Gconfiguration] [] [info] [] Configuration reloaded successfully
+[2025-03-30 02:28:52.654] [] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 02:28:52.654] [] [config] [info] [] starting to get the config struct 
+[2025-03-30 02:28:52.654] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 02:28:52.654] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 02:28:52.655] [Gconfiguration] [] [info] [] ending to get the configuration
+[2025-03-30 02:28:52.655] [Gconfiguration] [] [trace] [] this is the data that we have in the configuration {"log_level":"trace","log_name":"rechargeGateway","server_port":":2000","client":{"maxIdleConns":10,"maxConnsPerHost":100,"maxIdleConnsPerHost":10,"idleConnTimeoutSeconds":30,"disableCompression":true,"petitionsTimeOut":20,"disableKeepAlives":true},"realizar_venta":{"url":"http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService","method":"POST"},"mobil_regex":"^\\d{8}$"}
+[2025-03-30 02:28:52.655] [Gconfiguration] [] [info] [] Configuration reloaded successfully
+[2025-03-30 02:28:52.918] [] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 02:28:52.918] [] [config] [info] [] starting to get the config struct 
+[2025-03-30 02:28:52.918] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 02:28:52.918] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 02:28:52.925] [Gconfiguration] [] [info] [] ending to get the configuration
+[2025-03-30 02:28:52.925] [Gconfiguration] [] [trace] [] this is the data that we have in the configuration {"log_level":"trace","log_name":"rechargeGateway","server_port":":2000","client":{"maxIdleConns":10,"maxConnsPerHost":100,"maxIdleConnsPerHost":10,"idleConnTimeoutSeconds":30,"disableCompression":true,"petitionsTimeOut":20,"disableKeepAlives":true},"realizar_venta":{"url":"http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService","method":"POST"},"mobil_regex":"^\\d{8}$"}
+[2025-03-30 02:28:52.925] [Gconfiguration] [] [info] [] Configuration reloaded successfully
+[2025-03-30 02:28:52.925] [] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 02:28:52.925] [] [config] [info] [] starting to get the config struct 
+[2025-03-30 02:28:52.925] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 02:28:52.925] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 02:28:52.927] [Gconfiguration] [] [info] [] ending to get the configuration
+[2025-03-30 02:28:52.927] [Gconfiguration] [] [trace] [] this is the data that we have in the configuration {"log_level":"trace","log_name":"rechargeGateway","server_port":":2000","client":{"maxIdleConns":10,"maxConnsPerHost":100,"maxIdleConnsPerHost":10,"idleConnTimeoutSeconds":30,"disableCompression":true,"petitionsTimeOut":20,"disableKeepAlives":true},"realizar_venta":{"url":"http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService","method":"POST"},"mobil_regex":"^\\d{8}$"}
+[2025-03-30 02:28:52.927] [Gconfiguration] [] [info] [] Configuration reloaded successfully
+[2025-03-30 02:29:01.428] [] [main] [info] [] closing micropagos message gateway version 1.0.0, received shutdown signal: interrupt,

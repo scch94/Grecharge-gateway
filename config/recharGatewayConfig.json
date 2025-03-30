@@ -1,0 +1,34 @@
+{
+    "log_level": "trace",
+    "log_name": "rechargeGateway",
+    "server_port": ":2000",
+    "mobil_regex":"^\\d{8}$",
+    "time_zone":"America/Montevideo",
+    "client": {
+    "maxIdleConns": 10,
+    "maxConnsPerHost": 100,
+    "maxIdleConnsPerHost": 10,
+    "idleConnTimeoutSeconds": 30,
+    "disableCompression": true,
+    "petitionsTimeOut": 20,
+    "disableKeepAlives": true
+    },
+    "acg":{
+        "id_producto":80,
+        "id_mayorista":1,
+        "usuario":"mpagosuy",
+        "clave":"abc123456",
+        "moneda":"UYU",
+        "id_cliente":"10534",
+        "canal":"IA"
+    },
+    "realizar_venta":{
+        "url":"http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService",
+        "Method":"POST"
+    },
+    "consultar_transaccion":{
+        "url":"http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService",
+        "Method":"POST"
+    } 
+
+}

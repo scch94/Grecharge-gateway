@@ -1,0 +1,346 @@
+[2025-03-30 01:26:27.139] [recharge-gateway] [middleware] [info] [78384344598b] New petition received
+[2025-03-30 01:26:27.139] [recharge-gateway] [handler] [error] [78384344598b] Route  not found: url: /rechargeMobile, method: POST
+[2025-03-30 01:26:27.139] [recharge-gateway] [middleware] [info] [78384344598b] Request took 0s
+[2025-03-30 01:26:37.878] [recharge-gateway] [main] [info] [] closing micropagos message gateway version 1.0.0, received shutdown signal: interrupt,
+[2025-03-30 01:28:34.619] [recharge-gateway] [middleware] [info] [bb21ed38ff67] New petition received
+[2025-03-30 01:28:34.621] [recharge-gateway] [handler] [info] [bb21ed38ff67] startint to recharge account
+[2025-03-30 01:28:34.622] [recharge-gateway] [middleware] [info] [bb21ed38ff67] Request took 551µs
+[2025-03-30 01:28:45.511] [recharge-gateway] [middleware] [info] [cd83ed5afa36] New petition received
+[2025-03-30 01:28:45.511] [recharge-gateway] [handler] [info] [cd83ed5afa36] startint to recharge account
+[2025-03-30 01:28:45.511] [recharge-gateway] [middleware] [info] [cd83ed5afa36] Request took 0s
+[2025-03-30 01:30:23.967] [recharge-gateway] [main] [info] [] closing micropagos message gateway version 1.0.0, received shutdown signal: interrupt,
+[2025-03-30 01:31:09.252] [recharge-gateway] [main] [info] [] closing micropagos message gateway version 1.0.0, received shutdown signal: interrupt,
+[2025-03-30 01:31:38.599] [recharge-gateway] [middleware] [info] [022ce89f3461] New petition received
+[2025-03-30 01:31:38.599] [recharge-gateway] [handler] [info] [022ce89f3461] startint to recharge account
+[2025-03-30 01:31:38.599] [recharge-gateway] [handler] [info] [022ce89f3461] este es el json de la peticion [123 10 32 32 34 108 105 110 101 34 58 57 55 49 57 49 51 54 57 44 10 32 32 34 97 109 111 117 110 116 34 58 53 48 48 44 10 32 32 34 73 100 84 82 78 34 58 49 50 51 49 50 51 49 50 44 10 32 32 34 80 114 111 100 117 99 116 34 58 48 44 10 32 32 34 73 100 68 105 115 116 114 105 98 117 116 111 114 34 58 50 44 10 32 32 34 73 100 76 111 99 97 116 105 111 110 34 58 50 44 10 32 32 34 80 97 115 115 119 111 114 100 34 58 34 112 114 117 101 98 97 34 44 10 32 32 34 73 100 80 79 83 34 58 48 10 125]:
+[2025-03-30 01:31:38.599] [recharge-gateway] [middleware] [info] [022ce89f3461] Request took 0s
+[2025-03-30 01:45:17.130] [recharge-gateway] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:17.130] [recharge-gateway] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:17.130] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:17.130] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:17.134] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:17.135] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:17.135] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:17.135] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:17.135] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:17.135] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:17.135] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:17.137] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:17.137] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:17.137] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:17.348] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:17.348] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:17.348] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:17.348] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:17.351] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:17.351] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:17.351] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:17.351] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:17.351] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:17.351] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:17.351] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:17.352] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:17.353] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:17.353] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:17.501] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:17.502] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:17.502] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:17.502] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:17.505] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:17.505] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:17.505] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:17.505] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:17.505] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:17.505] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:17.505] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:17.507] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:17.507] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:17.507] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:17.643] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:17.643] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:17.643] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:17.643] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:17.646] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:17.646] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:17.646] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:17.646] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:17.646] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:17.646] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:17.646] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:17.647] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:17.647] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:17.648] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:18.108] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:18.108] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:18.108] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:18.108] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:18.110] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:18.110] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:18.110] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:18.110] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:18.110] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:18.110] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:18.110] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:18.110] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:18.110] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:18.110] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:18.354] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:18.354] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:18.354] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:18.354] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:18.358] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:18.358] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:18.358] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:18.358] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:18.358] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:18.358] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:18.358] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:18.360] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:18.360] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:18.360] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:19.141] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:19.141] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:19.141] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:19.141] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:19.144] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:19.144] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:19.144] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:19.144] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:19.144] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:19.144] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:19.144] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:19.144] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:19.144] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:19.144] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:19.456] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:19.456] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:19.456] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:19.456] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:19.458] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:19.458] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:19.458] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:19.458] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:19.458] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:19.458] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:19.458] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:19.459] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:19.459] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:19.459] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:19.976] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:19.977] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:19.977] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:19.977] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:19.979] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:19.979] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:19.979] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:19.979] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:19.979] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:19.979] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:19.979] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:19.980] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:19.980] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:19.980] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:20.494] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:20.494] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:20.494] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:20.494] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:20.496] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:20.496] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:20.496] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:20.496] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:20.496] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:20.496] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:20.496] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:20.497] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:20.497] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:20.497] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:20.649] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:20.650] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:20.650] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:20.650] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:20.652] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:20.652] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:20.652] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:20.652] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:20.652] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:20.652] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:20.652] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:20.654] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:20.654] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:20.654] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:20.875] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:20.875] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:20.875] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:20.875] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:20.878] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:20.878] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:20.878] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:20.878] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:20.878] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:20.878] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:20.878] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:20.878] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:20.878] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:20.878] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:21.195] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:21.195] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:21.195] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:21.195] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:21.200] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:21.200] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:21.200] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:21.200] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:21.200] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:21.200] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:21.200] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:21.202] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:21.202] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:21.202] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:23.014] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:23.014] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:23.014] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:23.014] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:23.017] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:23.017] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:23.017] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:23.017] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:23.017] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:23.017] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:23.017] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:23.017] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:23.017] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:23.017] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:24.300] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:24.300] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:24.300] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:24.300] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:24.302] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:24.302] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:24.302] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:24.302] [Gconfiguration] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:45:24.302] [Gconfiguration] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:45:24.302] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:45:24.302] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:45:24.303] [Gconfiguration] [] [fatal] [] the config.json file does not match the structure invalid character 'd' in string escape code, please review the file again:
+[2025-03-30 01:45:24.303] [Gconfiguration] [config] [fatal] [] error in Gconfiguration.GetConfig() %!(EXTRA *errors.errorString=the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code)
+[2025-03-30 01:45:24.303] [Gconfiguration] [] [error] [] Error reloading config: the config.json file does not match the structure &{info rechargeGateway :2000 {%!s(int=10) %!s(int=100) %!s(int=10) %!s(int=30) %!s(bool=true) %!s(int=20) %!s(bool=true)} {http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService POST}}, please review the file again: invalid character 'd' in string escape code
+[2025-03-30 01:45:34.375] [Gconfiguration] [main] [info] [] closing micropagos message gateway version 1.0.0, received shutdown signal: interrupt,
+[2025-03-30 01:53:01.083] [recharge-gateway] [middleware] [info] [fa2ea2d3f4be] New petition received
+[2025-03-30 01:53:01.083] [recharge-gateway] [handler] [info] [fa2ea2d3f4be] startint to recharge account
+[2025-03-30 01:53:01.083] [recharge-gateway] [handler] [error] [fa2ea2d3f4be] error reading the body of the petition err: json: cannot unmarshal number into Go struct field RechargeMobile.line of type string
+[2025-03-30 01:53:01.083] [recharge-gateway] [middleware] [info] [fa2ea2d3f4be] Request took 0s
+[2025-03-30 01:53:13.448] [recharge-gateway] [middleware] [info] [b5d2354382cc] New petition received
+[2025-03-30 01:53:13.448] [recharge-gateway] [handler] [info] [b5d2354382cc] startint to recharge account
+[2025-03-30 01:53:13.448] [recharge-gateway] [handler] [error] [b5d2354382cc] error reading the body of the petition err: json: cannot unmarshal number into Go struct field RechargeMobile.IdTRN of type string
+[2025-03-30 01:53:13.449] [recharge-gateway] [middleware] [info] [b5d2354382cc] Request took 960.8µs
+[2025-03-30 01:53:17.597] [recharge-gateway] [middleware] [info] [041a7840a7f8] New petition received
+[2025-03-30 01:53:17.597] [recharge-gateway] [handler] [info] [041a7840a7f8] startint to recharge account
+[2025-03-30 01:53:17.597] [recharge-gateway] [handler] [error] [041a7840a7f8] error reading the body of the petition err: json: cannot unmarshal number into Go struct field RechargeMobile.IdTRN of type string
+[2025-03-30 01:53:17.597] [recharge-gateway] [middleware] [info] [041a7840a7f8] Request took 0s
+[2025-03-30 01:53:29.500] [recharge-gateway] [middleware] [info] [175170f454f8] New petition received
+[2025-03-30 01:53:29.500] [recharge-gateway] [handler] [info] [175170f454f8] startint to recharge account
+[2025-03-30 01:53:29.500] [recharge-gateway] [middleware] [info] [175170f454f8] Request took 0s
+[2025-03-30 01:54:23.511] [recharge-gateway] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:54:23.512] [recharge-gateway] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:54:23.512] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:54:23.512] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:54:23.514] [Gconfiguration] [] [info] [] ending to get the configuration
+[2025-03-30 01:54:23.514] [Gconfiguration] [] [info] [] Configuration reloaded successfully
+[2025-03-30 01:54:23.514] [] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 01:54:23.514] [] [config] [info] [] starting to get the config struct 
+[2025-03-30 01:54:23.514] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 01:54:23.514] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 01:54:23.516] [Gconfiguration] [] [info] [] ending to get the configuration
+[2025-03-30 01:54:23.516] [Gconfiguration] [] [trace] [] this is the data that we have in the configuration {"log_level":"trace","log_name":"rechargeGateway","server_port":":2000","client":{"maxIdleConns":10,"maxConnsPerHost":100,"maxIdleConnsPerHost":10,"idleConnTimeoutSeconds":30,"disableCompression":true,"petitionsTimeOut":20,"disableKeepAlives":true},"realizar_venta":{"url":"http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService","method":"POST"},"mobil_regex":"^\\d{8}$"}
+[2025-03-30 01:54:23.516] [Gconfiguration] [] [info] [] Configuration reloaded successfully
+[2025-03-30 01:54:26.934] [] [middleware] [info] [1d0c7b3a1f94] New petition received
+[2025-03-30 01:54:26.934] [] [middleware] [trace] [1d0c7b3a1f94] url: /rechargeMobile, method: POST
+[2025-03-30 01:54:26.934] [] [handler] [info] [1d0c7b3a1f94] startint to recharge account
+[2025-03-30 01:54:26.934] [] [handler] [trace] [1d0c7b3a1f94] starting to get the body of the petition
+[2025-03-30 01:54:26.934] [] [handler] [trace] [1d0c7b3a1f94] Body of the petition:\n{\n  "line":"97191369",\n  "amount":500,\n  "IdTRN":"12312312",\n  "Product":0,\n  "IdDistributor":2,\n  "IdLocation":2,\n  "Password":"prueba",\n  "IdPOS":0\n}
+[2025-03-30 01:54:26.934] [] [handler] [trace] [1d0c7b3a1f94] value match with the regex expression
+[2025-03-30 01:54:26.934] [] [handler] [trace] [1d0c7b3a1f94] amount check pass
+[2025-03-30 01:54:26.934] [] [handler] [trace] [1d0c7b3a1f94] transaction id check pass
+[2025-03-30 01:54:26.934] [] [middleware] [info] [1d0c7b3a1f94] Request took 0s
+[2025-03-30 01:55:17.985] [] [middleware] [info] [af8781935e31] New petition received
+[2025-03-30 01:55:17.985] [] [middleware] [trace] [af8781935e31] url: /rechargeMobile, method: POST
+[2025-03-30 01:55:17.985] [] [handler] [info] [af8781935e31] startint to recharge account
+[2025-03-30 01:55:17.985] [] [handler] [trace] [af8781935e31] starting to get the body of the petition
+[2025-03-30 01:55:17.985] [] [handler] [trace] [af8781935e31] Body of the petition:\n{\n  "line":"9719136",\n  "amount":500,\n  "IdTRN":"12312312",\n  "Product":0,\n  "IdDistributor":2,\n  "IdLocation":2,\n  "Password":"prueba",\n  "IdPOS":0\n}
+[2025-03-30 01:55:17.985] [] [handler] [error] [af8781935e31] Mobile did not match in the regex expression
+[2025-03-30 01:55:17.985] [] [handler] [error] [af8781935e31] error in the function checkRequestRechargeAccount() err: Mobile did not match in the regex expression regex.MatchString()
+[2025-03-30 01:55:17.985] [] [middleware] [info] [af8781935e31] Request took 0s
+[2025-03-30 01:55:30.205] [] [main] [info] [] closing micropagos message gateway version 1.0.0, received shutdown signal: interrupt,
+[2025-03-30 01:56:08.340] [recharge-gateway] [middleware] [info] [d873d2a0065c] New petition received
+[2025-03-30 01:56:08.341] [recharge-gateway] [middleware] [trace] [d873d2a0065c] url: /rechargeMobile, method: POST
+[2025-03-30 01:56:08.341] [recharge-gateway] [handler] [info] [d873d2a0065c] startint to recharge account
+[2025-03-30 01:56:08.341] [recharge-gateway] [handler] [trace] [d873d2a0065c] starting to get the body of the petition
+[2025-03-30 01:56:08.341] [recharge-gateway] [handler] [trace] [d873d2a0065c] Body of the petition: {9719136 %!s(int=500) 12312312 %!s(int=0) %!s(int=2) %!s(int=2) prueba %!s(int=0)}
+[2025-03-30 01:56:08.341] [recharge-gateway] [handler] [error] [d873d2a0065c] Mobile did not match in the regex expression
+[2025-03-30 01:56:08.341] [recharge-gateway] [handler] [error] [d873d2a0065c] error in the function checkRequestRechargeAccount() err: mobile did not match in the regex expression regex.MatchString()
+[2025-03-30 01:56:08.341] [recharge-gateway] [middleware] [info] [d873d2a0065c] Request took 540.1µs
+[2025-03-30 01:56:20.702] [recharge-gateway] [middleware] [info] [ea552c4b8297] New petition received
+[2025-03-30 01:56:20.702] [recharge-gateway] [middleware] [trace] [ea552c4b8297] url: /rechargeMobile, method: POST
+[2025-03-30 01:56:20.702] [recharge-gateway] [handler] [info] [ea552c4b8297] startint to recharge account
+[2025-03-30 01:56:20.702] [recharge-gateway] [handler] [trace] [ea552c4b8297] starting to get the body of the petition
+[2025-03-30 01:56:20.702] [recharge-gateway] [handler] [trace] [ea552c4b8297] Body of the petition: {97191369 %!s(int=500) 12312312 %!s(int=0) %!s(int=2) %!s(int=2) prueba %!s(int=0)}
+[2025-03-30 01:56:20.702] [recharge-gateway] [handler] [trace] [ea552c4b8297] value match with the regex expression
+[2025-03-30 01:56:20.702] [recharge-gateway] [handler] [trace] [ea552c4b8297] amount check pass
+[2025-03-30 01:56:20.702] [recharge-gateway] [handler] [trace] [ea552c4b8297] transaction id check pass
+[2025-03-30 01:56:20.702] [recharge-gateway] [middleware] [info] [ea552c4b8297] Request took 0s
+[2025-03-30 01:56:26.951] [recharge-gateway] [middleware] [info] [1cfe507a0ff0] New petition received
+[2025-03-30 01:56:26.951] [recharge-gateway] [middleware] [trace] [1cfe507a0ff0] url: /rechargeMobile, method: POST
+[2025-03-30 01:56:26.951] [recharge-gateway] [handler] [info] [1cfe507a0ff0] startint to recharge account
+[2025-03-30 01:56:26.951] [recharge-gateway] [handler] [trace] [1cfe507a0ff0] starting to get the body of the petition
+[2025-03-30 01:56:26.951] [recharge-gateway] [handler] [trace] [1cfe507a0ff0] Body of the petition: {97191369 %!s(int=0) 12312312 %!s(int=0) %!s(int=2) %!s(int=2) prueba %!s(int=0)}
+[2025-03-30 01:56:26.951] [recharge-gateway] [handler] [trace] [1cfe507a0ff0] value match with the regex expression
+[2025-03-30 01:56:26.951] [recharge-gateway] [handler] [error] [1cfe507a0ff0] the Amount is empity
+[2025-03-30 01:56:26.951] [recharge-gateway] [handler] [error] [1cfe507a0ff0] error in the function checkRequestRechargeAccount() err: the Amount is empity
+[2025-03-30 01:56:26.951] [recharge-gateway] [middleware] [info] [1cfe507a0ff0] Request took 0s
+[2025-03-30 01:56:34.291] [recharge-gateway] [middleware] [info] [69ed246a900c] New petition received
+[2025-03-30 01:56:34.291] [recharge-gateway] [middleware] [trace] [69ed246a900c] url: /rechargeMobile, method: POST
+[2025-03-30 01:56:34.291] [recharge-gateway] [handler] [info] [69ed246a900c] startint to recharge account
+[2025-03-30 01:56:34.291] [recharge-gateway] [handler] [trace] [69ed246a900c] starting to get the body of the petition
+[2025-03-30 01:56:34.291] [recharge-gateway] [handler] [trace] [69ed246a900c] Body of the petition: {97191369 %!s(int=0) 12312312 %!s(int=0) %!s(int=2) %!s(int=2) prueba %!s(int=0)}
+[2025-03-30 01:56:34.291] [recharge-gateway] [handler] [trace] [69ed246a900c] value match with the regex expression
+[2025-03-30 01:56:34.291] [recharge-gateway] [handler] [error] [69ed246a900c] the Amount is empity
+[2025-03-30 01:56:34.291] [recharge-gateway] [handler] [error] [69ed246a900c] error in the function checkRequestRechargeAccount() err: the Amount is empity
+[2025-03-30 01:56:34.291] [recharge-gateway] [middleware] [info] [69ed246a900c] Request took 0s
+[2025-03-30 01:56:42.872] [recharge-gateway] [middleware] [info] [8d0c9b4b84aa] New petition received
+[2025-03-30 01:56:42.872] [recharge-gateway] [middleware] [trace] [8d0c9b4b84aa] url: /rechargeMobile, method: POST
+[2025-03-30 01:56:42.872] [recharge-gateway] [handler] [info] [8d0c9b4b84aa] startint to recharge account
+[2025-03-30 01:56:42.872] [recharge-gateway] [handler] [trace] [8d0c9b4b84aa] starting to get the body of the petition
+[2025-03-30 01:56:42.872] [recharge-gateway] [handler] [trace] [8d0c9b4b84aa] Body of the petition: {97191369 %!s(int=10) 12312312 %!s(int=0) %!s(int=2) %!s(int=2) prueba %!s(int=0)}
+[2025-03-30 01:56:42.872] [recharge-gateway] [handler] [trace] [8d0c9b4b84aa] value match with the regex expression
+[2025-03-30 01:56:42.872] [recharge-gateway] [handler] [trace] [8d0c9b4b84aa] amount check pass
+[2025-03-30 01:56:42.872] [recharge-gateway] [handler] [trace] [8d0c9b4b84aa] transaction id check pass
+[2025-03-30 01:56:42.872] [recharge-gateway] [middleware] [info] [8d0c9b4b84aa] Request took 0s
+[2025-03-30 01:56:47.031] [recharge-gateway] [middleware] [info] [ed503e2826b8] New petition received
+[2025-03-30 01:56:47.031] [recharge-gateway] [middleware] [trace] [ed503e2826b8] url: /rechargeMobile, method: POST
+[2025-03-30 01:56:47.031] [recharge-gateway] [handler] [info] [ed503e2826b8] startint to recharge account
+[2025-03-30 01:56:47.031] [recharge-gateway] [handler] [trace] [ed503e2826b8] starting to get the body of the petition
+[2025-03-30 01:56:47.031] [recharge-gateway] [handler] [trace] [ed503e2826b8] Body of the petition: {97191369 %!s(int=10)  %!s(int=0) %!s(int=2) %!s(int=2) prueba %!s(int=0)}
+[2025-03-30 01:56:47.031] [recharge-gateway] [handler] [trace] [ed503e2826b8] value match with the regex expression
+[2025-03-30 01:56:47.031] [recharge-gateway] [handler] [trace] [ed503e2826b8] amount check pass
+[2025-03-30 01:56:47.031] [recharge-gateway] [handler] [error] [ed503e2826b8] the transaction id is empity
+[2025-03-30 01:56:47.031] [recharge-gateway] [handler] [error] [ed503e2826b8] error in the function checkRequestRechargeAccount() err: the transaction id is empity
+[2025-03-30 01:56:47.031] [recharge-gateway] [middleware] [info] [ed503e2826b8] Request took 623.2µs
+[2025-03-30 01:56:54.371] [recharge-gateway] [middleware] [info] [35084eac961d] New petition received
+[2025-03-30 01:56:54.371] [recharge-gateway] [middleware] [trace] [35084eac961d] url: /rechargeMobile, method: POST
+[2025-03-30 01:56:54.371] [recharge-gateway] [handler] [info] [35084eac961d] startint to recharge account
+[2025-03-30 01:56:54.371] [recharge-gateway] [handler] [trace] [35084eac961d] starting to get the body of the petition
+[2025-03-30 01:56:54.371] [recharge-gateway] [handler] [trace] [35084eac961d] Body of the petition: {97191369 %!s(int=10)  %!s(int=0) %!s(int=2) %!s(int=2) prueba %!s(int=0)}
+[2025-03-30 01:56:54.371] [recharge-gateway] [handler] [trace] [35084eac961d] value match with the regex expression
+[2025-03-30 01:56:54.371] [recharge-gateway] [handler] [trace] [35084eac961d] amount check pass
+[2025-03-30 01:56:54.371] [recharge-gateway] [handler] [error] [35084eac961d] the transaction id is empity
+[2025-03-30 01:56:54.371] [recharge-gateway] [handler] [error] [35084eac961d] error in the function checkRequestRechargeAccount() err: the transaction id is empity
+[2025-03-30 01:56:54.371] [recharge-gateway] [middleware] [info] [35084eac961d] Request took 0s
+[2025-03-30 01:56:58.765] [recharge-gateway] [middleware] [info] [792ca7b082ea] New petition received
+[2025-03-30 01:56:58.765] [recharge-gateway] [middleware] [trace] [792ca7b082ea] url: /rechargeMobile, method: POST
+[2025-03-30 01:56:58.765] [recharge-gateway] [handler] [info] [792ca7b082ea] startint to recharge account
+[2025-03-30 01:56:58.765] [recharge-gateway] [handler] [trace] [792ca7b082ea] starting to get the body of the petition
+[2025-03-30 01:56:58.766] [recharge-gateway] [handler] [trace] [792ca7b082ea] Body of the petition: {97191369 %!s(int=10) 12312312 %!s(int=0) %!s(int=2) %!s(int=2) prueba %!s(int=0)}
+[2025-03-30 01:56:58.766] [recharge-gateway] [handler] [trace] [792ca7b082ea] value match with the regex expression
+[2025-03-30 01:56:58.766] [recharge-gateway] [handler] [trace] [792ca7b082ea] amount check pass
+[2025-03-30 01:56:58.766] [recharge-gateway] [handler] [trace] [792ca7b082ea] transaction id check pass
+[2025-03-30 01:56:58.766] [recharge-gateway] [middleware] [info] [792ca7b082ea] Request took 518.5µs

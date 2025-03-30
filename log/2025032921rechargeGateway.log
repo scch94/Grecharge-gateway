@@ -1,0 +1,9 @@
+[2025-03-29 21:21:13.243] [recharge-gateway] [middleware] [info] [278b7f1552c8] New petition received
+[2025-03-29 21:21:13.244] [recharge-gateway] [handlerWelcome] [info] [278b7f1552c8] starting handler welcome.
+[2025-03-29 21:21:13.244] [recharge-gateway] [middleware] [info] [278b7f1552c8] Request took 0s
+[2025-03-29 21:21:17.041] [recharge-gateway] [middleware] [info] [2c7c8635969e] New petition received
+[2025-03-29 21:21:17.042] [recharge-gateway] [handler] [error] [2c7c8635969e] Route  not found: url: /, method: POST
+[2025-03-29 21:21:17.042] [recharge-gateway] [middleware] [info] [2c7c8635969e] Request took 0s
+[2025-03-29 21:21:18.699] [recharge-gateway] [middleware] [info] [5de87a6633e2] New petition received
+[2025-03-29 21:21:18.699] [recharge-gateway] [handler] [error] [5de87a6633e2] Route  not found: url: /, method: POST
+[2025-03-29 21:21:18.699] [recharge-gateway] [middleware] [info] [5de87a6633e2] Request took 0s

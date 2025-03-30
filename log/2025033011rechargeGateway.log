@@ -1,0 +1,57 @@
+[2025-03-30 11:19:24.254] [] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 11:19:24.254] [] [config] [info] [] starting to get the config struct 
+[2025-03-30 11:19:24.255] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 11:19:24.255] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 11:19:24.256] [Gconfiguration] [] [info] [] ending to get the configuration
+[2025-03-30 11:19:24.256] [Gconfiguration] [] [trace] [] this is the data that we have in the configuration {"log_level":"trace","log_name":"rechargeGateway","server_port":":2000","client":{"maxIdleConns":10,"maxConnsPerHost":100,"maxIdleConnsPerHost":10,"idleConnTimeoutSeconds":30,"disableCompression":true,"petitionsTimeOut":20,"disableKeepAlives":true},"realizar_venta":{"url":"http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService","method":"POST"},"mobil_regex":"^\\d{8}$","acg":{"id_mayorista":1,"id_producto":80,"usuario":"mpagosuy","clave":"abc123456","id_cliente":"10534","moneda":"UYU","canal":"IA"},"time_zone":"America/Montevideo"}
+[2025-03-30 11:19:24.258] [Gconfiguration] [] [info] [] Configuration reloaded successfully
+[2025-03-30 11:19:24.258] [] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 11:19:24.258] [] [config] [info] [] starting to get the config struct 
+[2025-03-30 11:19:24.258] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 11:19:24.258] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 11:19:24.259] [Gconfiguration] [] [info] [] ending to get the configuration
+[2025-03-30 11:19:24.259] [Gconfiguration] [] [trace] [] this is the data that we have in the configuration {"log_level":"trace","log_name":"rechargeGateway","server_port":":2000","client":{"maxIdleConns":10,"maxConnsPerHost":100,"maxIdleConnsPerHost":10,"idleConnTimeoutSeconds":30,"disableCompression":true,"petitionsTimeOut":20,"disableKeepAlives":true},"realizar_venta":{"url":"http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService","method":"POST"},"mobil_regex":"^\\d{8}$","acg":{"id_mayorista":1,"id_producto":80,"usuario":"mpagosuy","clave":"abc123456","id_cliente":"10534","moneda":"UYU","canal":"IA"},"time_zone":"America/Montevideo"}
+[2025-03-30 11:19:24.259] [Gconfiguration] [] [info] [] Configuration reloaded successfully
+[2025-03-30 11:19:24.394] [] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 11:19:24.394] [] [config] [info] [] starting to get the config struct 
+[2025-03-30 11:19:24.394] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 11:19:24.394] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 11:19:24.396] [Gconfiguration] [] [info] [] ending to get the configuration
+[2025-03-30 11:19:24.396] [Gconfiguration] [] [trace] [] this is the data that we have in the configuration {"log_level":"trace","log_name":"rechargeGateway","server_port":":2000","client":{"maxIdleConns":10,"maxConnsPerHost":100,"maxIdleConnsPerHost":10,"idleConnTimeoutSeconds":30,"disableCompression":true,"petitionsTimeOut":20,"disableKeepAlives":true},"realizar_venta":{"url":"http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService","method":"POST"},"mobil_regex":"^\\d{8}$","acg":{"id_mayorista":1,"id_producto":80,"usuario":"mpagosuy","clave":"abc123456","id_cliente":"10534","moneda":"UYU","canal":"IA"},"time_zone":"America/Montevideo"}
+[2025-03-30 11:19:24.396] [Gconfiguration] [] [info] [] Configuration reloaded successfully
+[2025-03-30 11:19:24.396] [] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 11:19:24.397] [] [config] [info] [] starting to get the config struct 
+[2025-03-30 11:19:24.397] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 11:19:24.397] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 11:19:24.398] [Gconfiguration] [] [info] [] ending to get the configuration
+[2025-03-30 11:19:24.398] [Gconfiguration] [] [trace] [] this is the data that we have in the configuration {"log_level":"trace","log_name":"rechargeGateway","server_port":":2000","client":{"maxIdleConns":10,"maxConnsPerHost":100,"maxIdleConnsPerHost":10,"idleConnTimeoutSeconds":30,"disableCompression":true,"petitionsTimeOut":20,"disableKeepAlives":true},"realizar_venta":{"url":"http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService","method":"POST"},"mobil_regex":"^\\d{8}$","acg":{"id_mayorista":1,"id_producto":80,"usuario":"mpagosuy","clave":"abc123456","id_cliente":"10534","moneda":"UYU","canal":"IA"},"time_zone":"America/Montevideo"}
+[2025-03-30 11:19:24.398] [Gconfiguration] [] [info] [] Configuration reloaded successfully
+[2025-03-30 11:19:24.553] [] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 11:19:24.553] [] [config] [info] [] starting to get the config struct 
+[2025-03-30 11:19:24.553] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 11:19:24.554] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 11:19:24.556] [Gconfiguration] [] [info] [] ending to get the configuration
+[2025-03-30 11:19:24.556] [Gconfiguration] [] [trace] [] this is the data that we have in the configuration {"log_level":"trace","log_name":"rechargeGateway","server_port":":2000","client":{"maxIdleConns":10,"maxConnsPerHost":100,"maxIdleConnsPerHost":10,"idleConnTimeoutSeconds":30,"disableCompression":true,"petitionsTimeOut":20,"disableKeepAlives":true},"realizar_venta":{"url":"http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService","method":"POST"},"mobil_regex":"^\\d{8}$","acg":{"id_mayorista":1,"id_producto":80,"usuario":"mpagosuy","clave":"abc123456","id_cliente":"10534","moneda":"UYU","canal":"IA"},"time_zone":"America/Montevideo"}
+[2025-03-30 11:19:24.556] [Gconfiguration] [] [info] [] Configuration reloaded successfully
+[2025-03-30 11:19:24.556] [] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 11:19:24.556] [] [config] [info] [] starting to get the config struct 
+[2025-03-30 11:19:24.556] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 11:19:24.556] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 11:19:24.556] [Gconfiguration] [] [info] [] ending to get the configuration
+[2025-03-30 11:19:24.556] [Gconfiguration] [] [trace] [] this is the data that we have in the configuration {"log_level":"trace","log_name":"rechargeGateway","server_port":":2000","client":{"maxIdleConns":10,"maxConnsPerHost":100,"maxIdleConnsPerHost":10,"idleConnTimeoutSeconds":30,"disableCompression":true,"petitionsTimeOut":20,"disableKeepAlives":true},"realizar_venta":{"url":"http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService","method":"POST"},"mobil_regex":"^\\d{8}$","acg":{"id_mayorista":1,"id_producto":80,"usuario":"mpagosuy","clave":"abc123456","id_cliente":"10534","moneda":"UYU","canal":"IA"},"time_zone":"America/Montevideo"}
+[2025-03-30 11:19:24.556] [Gconfiguration] [] [info] [] Configuration reloaded successfully
+[2025-03-30 11:19:24.689] [] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 11:19:24.689] [] [config] [info] [] starting to get the config struct 
+[2025-03-30 11:19:24.689] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 11:19:24.689] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 11:19:24.694] [Gconfiguration] [] [info] [] ending to get the configuration
+[2025-03-30 11:19:24.694] [Gconfiguration] [] [trace] [] this is the data that we have in the configuration {"log_level":"trace","log_name":"rechargeGateway","server_port":":2000","client":{"maxIdleConns":10,"maxConnsPerHost":100,"maxIdleConnsPerHost":10,"idleConnTimeoutSeconds":30,"disableCompression":true,"petitionsTimeOut":20,"disableKeepAlives":true},"realizar_venta":{"url":"http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService","method":"POST"},"mobil_regex":"^\\d{8}$","acg":{"id_mayorista":1,"id_producto":80,"usuario":"mpagosuy","clave":"abc123456","id_cliente":"10534","moneda":"UYU","canal":"IA"},"time_zone":"America/Montevideo"}
+[2025-03-30 11:19:24.694] [Gconfiguration] [] [info] [] Configuration reloaded successfully
+[2025-03-30 11:19:24.694] [] [] [info] [] Detected change in configuration file, reloading config
+[2025-03-30 11:19:24.694] [] [config] [info] [] starting to get the config struct 
+[2025-03-30 11:19:24.694] [Gconfiguration] [] [info] [] starting gconfiguration Version: 1.0.0
+[2025-03-30 11:19:24.694] [Gconfiguration] [] [info] [] Location of the configuration file: ..\..\config\recharGatewayConfig.json
+[2025-03-30 11:19:24.696] [Gconfiguration] [] [info] [] ending to get the configuration
+[2025-03-30 11:19:24.696] [Gconfiguration] [] [trace] [] this is the data that we have in the configuration {"log_level":"trace","log_name":"rechargeGateway","server_port":":2000","client":{"maxIdleConns":10,"maxConnsPerHost":100,"maxIdleConnsPerHost":10,"idleConnTimeoutSeconds":30,"disableCompression":true,"petitionsTimeOut":20,"disableKeepAlives":true},"realizar_venta":{"url":"http://americacg.dyndns.org/TEST1_CargaVirtualCore/services/CoreService","method":"POST"},"mobil_regex":"^\\d{8}$","acg":{"id_mayorista":1,"id_producto":80,"usuario":"mpagosuy","clave":"abc123456","id_cliente":"10534","moneda":"UYU","canal":"IA"},"time_zone":"America/Montevideo"}
+[2025-03-30 11:19:24.696] [Gconfiguration] [] [info] [] Configuration reloaded successfully
+[2025-03-30 11:41:41.072] [] [main] [info] [] closing micropagos message gateway version 1.0.0, received shutdown signal: interrupt,

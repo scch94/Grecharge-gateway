@@ -1,0 +1,10 @@
+package client
+
+const (
+	APROBADA                 = "M0000"
+	LINEA_INVALIDA           = "M0002"
+	IMPORTE_INVALIDO         = "M0145"
+	ID_TRANSACCION_DUPLICADA = "M0131"
+	TRANSACCION_DUPLICADA    = "M0030"
+	CARGA_EN_PROCESO         = "M0001"
+)
